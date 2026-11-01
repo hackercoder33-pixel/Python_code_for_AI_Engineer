@@ -1,0 +1,6 @@
+print("huma")
+print("you are greater")
+print(3-8)
+print("i am learning python")
+dream=input("what is your ?")
+print(dream)
